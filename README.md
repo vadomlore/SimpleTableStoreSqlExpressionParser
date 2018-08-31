@@ -1,0 +1,2 @@
+# SimpleTableStoreSqlExpressionParser
+将类似SQL的条件语句解析成TableStore的ColumnCondition条件表达式
